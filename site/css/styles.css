@@ -7,7 +7,7 @@ body {
 }
 
 /** HEADER **/
-#header-nav {
+#header-nav{
   background-color: #f6b319;
   border-radius: 0;
   border: 0;
@@ -31,42 +31,37 @@ body {
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-  border: 1px solid #61122f;
+  border: 2px solid #61122f;
 }
 
+}
 #listes {
-background-color: lightyellow;
 color: #000;
 font-size: 1.3em;
+background-color: lightyellow;
 
  } 
-.navbar-nav  {
-  margin-top: 0px;
-  margin-bottom: 0;
-  border: 0;
-  }
 
-#navbar-ext.navbar-text {
-text-align: center;
+#navbar-ext.text-center {
 background-color: lightgreen;
 
 }
-  #navbartex.navbar-text {
-text-align: center;
+  #navbartex.text-center {
 background-color: lightblue;
 
   }
-  #navbarte.navbar-text {
-text-align: center;
-background-color: lightgreen;
+  #navbarte.text-center {
+background-color: #ffece0;
 
   }
 /* HOME PAGE  CONTAINER*/
 .container .jumbotron {
   box-shadow: 0 0 50px #3F0C1F;
   border: 2px solid #3F0C1F;
-  margin-top: 30px;
-  padding: O;
+  margin-top: 2px;
+  margin-left: 1px;
+  margin-right:1px;
+  padding: 1px;
 }
 
 #menu1.text-center {
